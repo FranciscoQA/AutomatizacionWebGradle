@@ -1,0 +1,55 @@
+
+v
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").( Ä ®8Üı†Óİ1
+x
+java:S1192w"VDefine a constant instead of duplicating this literal "//a[contains(text(),'" 3 times.(—ç©°ùÿÿÿÿ8Şı†Óİ1
+¨
+java:S1192½"‰Define a constant instead of duplicating this literal "//div[@data-molecule-product-detail-name='true']//span[contains(text(),'" 3 times.(­—ƒ8Şı†Óİ1
+m	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÕÄ#8àı†Óİ1
+s	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÄ—ıÿÿÿÿ8àı†Óİ1
+n	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óëšª8àı†Óİ1
+†
+java:S1488"hImmediately return this expression instead of assigning it to the temporary variable "precioFormateado".(êè¤Æ8àı†Óİ1
+x
+java:S1104<"[Make lstproductModel a static final constant or non-public and provide accessors if needed.( Ä ®8áı†Óİ1
+}
+java:S1104="[Make precioxProducto a static final constant or non-public and provide accessors if needed.(îÕü”şÿÿÿÿ8áı†Óİ1
+x
+java:S1104>"[Make nombrexProducto a static final constant or non-public and provide accessors if needed.(óÃûç8áı†Óİ1
+x
+java:S1104?"[Make unidadxProducto a static final constant or non-public and provide accessors if needed.(Ïê‘8áı†Óİ1
+o
+java:S1104@"RMake idProd a static final constant or non-public and provide accessors if needed.(ŠêÄ‡8áı†Óİ1
+{
+java:S1104B"^Make lstprecioxProducto a static final constant or non-public and provide accessors if needed.(ßÚ8áı†Óİ1
+€
+java:S1104C"^Make lstnombrexProducto a static final constant or non-public and provide accessors if needed.(Øûàıÿÿÿÿ8áı†Óİ1
+{
+java:S1104D"^Make lstunidadxProducto a static final constant or non-public and provide accessors if needed.(ª¶•8áı†Óİ1
+_
+java:S4973–"<Strings and Boxed types should be compared using "equals()".(•óå¶üÿÿÿÿ8Á­Óİ1
+N
+java:S3416",Update this logger to use "ExitoPage.class".(¥Ä•Öøÿÿÿÿ8ş†Óİ1
+L	java:S106q"+Replace this use of System.out by a logger.(ªß÷íıÿÿÿÿ8¦ş†Óİ1
+G	java:S106r"+Replace this use of System.out by a logger.(–ëº“8¦ş†Óİ1
+M	java:S106ƒ"+Replace this use of System.out by a logger.(íåøùÿÿÿÿ8ªş†Óİ1
+p	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ãæÿÿÿÿÿ8¯ş†Óİ1
+|
+java:S2142¢"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¯ş†Óİ1
+k	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚àœÏ8±ş†Óİ1
+H	java:S106©"+Replace this use of System.out by a logger.(—ªûµ8²ş†Óİ1
+R
+java:S1172­"/Remove this unused method parameter "producto".(ÿå…ÿÿÿÿÿ8³ş†Óİ1
+G	java:S106¾"+Replace this use of System.out by a logger.(÷Ğ"8·ş†Óİ1
+Y	java:S125¿"<This block of commented-out lines of code should be removed.(¥ÉÓİ8·ş†Óİ1
+H	java:S106Â"+Replace this use of System.out by a logger.(‰¼‘8¸ş†Óİ1
+H	java:S106Æ"+Replace this use of System.out by a logger.(óÜƒ†8ºş†Óİ1
+M	java:S106â"+Replace this use of System.out by a logger.(ì²û©ùÿÿÿÿ8¾ş†Óİ1
+M	java:S106å"+Replace this use of System.out by a logger.(‰ÙüŒıÿÿÿÿ8¿ş†Óİ1
+H	java:S106é"+Replace this use of System.out by a logger.(î°À†8Áş†Óİ1
+H	java:S106÷"+Replace this use of System.out by a logger.(ÑÏğ8Ãş†Óİ1
+H	java:S106ú"+Replace this use of System.out by a logger.(‡ğ‹8Äş†Óİ1
+M	java:S106ş"+Replace this use of System.out by a logger.(€–Âéıÿÿÿÿ8Åş†Óİ1
+M	java:S106"+Replace this use of System.out by a logger.(Èñî¥ùÿÿÿÿ8ÓÃ­Óİ1
+M	java:S106•"+Replace this use of System.out by a logger.(Â‘¥µıÿÿÿÿ8ÔÃ­Óİ1
+H	java:S106—"+Replace this use of System.out by a logger.(‘Ó“ò8¬ò­Óİ1
